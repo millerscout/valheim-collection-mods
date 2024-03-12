@@ -1,0 +1,443 @@
+{
+  "instance": "b29b8ffd-4224-4c52-9211-392e0c9f80f4",
+  "version": 1,
+  "deploymentMethod": "hardlink_activator",
+  "gameId": "valheim",
+  "deploymentTime": 1710267349782,
+  "stagingPath": "C:\\Users\\Persephone\\AppData\\Roaming\\Vortex\\valheim\\mods",
+  "targetPath": "c:\\program files (x86)\\steam\\steamapps\\common\\Valheim\\BepInEx\\plugins",
+  "files": [
+    {
+      "relPath": "Jotunn\\Jotunn.dll",
+      "source": "Jotunn-1138-2-17-0-1708284061",
+      "target": "",
+      "time": 1708283977000
+    },
+    {
+      "relPath": "Jotunn\\CHANGELOG.md",
+      "source": "Jotunn-1138-2-17-0-1708284061",
+      "target": "",
+      "time": 1708283532000
+    },
+    {
+      "relPath": "Jotunn\\README.md",
+      "source": "Jotunn-1138-2-17-0-1708284061",
+      "target": "",
+      "time": 1704219536000
+    },
+    {
+      "relPath": "Jotunn\\Jotunn.pdb",
+      "source": "Jotunn-1138-2-17-0-1708284061",
+      "target": "",
+      "time": 1708283977000
+    },
+    {
+      "relPath": "Andrey059918.BetterHoe.dll",
+      "source": "BetterHoe-652-1-0-0-1616389952",
+      "target": "",
+      "time": 1616385611000
+    },
+    {
+      "relPath": "Jotunn\\Jotunn.xml",
+      "source": "Jotunn-1138-2-17-0-1708284061",
+      "target": "",
+      "time": 1708283977000
+    },
+    {
+      "relPath": "Advize_CartographySkill.dll",
+      "source": "Cartography Skill-394-3-0-0-1701931958",
+      "target": "",
+      "time": 1701843060000
+    },
+    {
+      "relPath": "InstantMonsterDrop.dll",
+      "source": "Instant Monster Loot Drop-164-0-3-3-1619541880",
+      "target": "",
+      "time": 1692745118000
+    },
+    {
+      "relPath": "Jotunn\\Jotunn.dll.mdb",
+      "source": "Jotunn-1138-2-17-0-1708284061",
+      "target": "",
+      "time": 1708283978000
+    },
+    {
+      "relPath": "CraftingStationLevelRange.dll",
+      "source": "CraftingStationLevelRange-105-1-5-0-1615810046",
+      "target": "",
+      "time": 1615856400000
+    },
+    {
+      "relPath": "CraftFromContainers.dll",
+      "source": "Craft From Containers-40-3-5-1-1699974180",
+      "target": "",
+      "time": 1699966952000
+    },
+    {
+      "relPath": "NexusUpdate.dll",
+      "source": "Nexus Update Check-102-1-1-1-1615685960",
+      "target": "",
+      "time": 1693247442000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\ZombieDog_Growl2.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616341150000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\HogMonster_Breath1.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616638464000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\HogMonster_Breath2.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616638480000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_boar_attack\\Boar_Attack_01.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616637775000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_boar_attack\\Boar_Attack_02.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616637799000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_boar_alerted\\Boar_Alerted_01.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616637828000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_boar_hit\\Boar_Hurt_02.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616637689000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_deer_death\\Deer_Bawl.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616079359000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_boar_idle\\Boar_Snort_04.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616638443000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_boar_idle\\Boar_Snort_02.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616638397000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_deer_idle\\Deer_Grunt_02.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616079128000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_boar_death\\Boar_Death_01.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616637744000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_boar_idle\\Boar_Snort_01.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616638375000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_boar_hit\\Boar_Hurt_01.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616637672000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_deer_idle\\Deer_Grunt_04.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616212093000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_boar_idle\\Boar_Snort_03.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616638418000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_deer_idle\\Deer_Grunt_03.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616080551000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_deer_idle\\SFX_Reduction_02.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616124449000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_deer_idle\\SFX_Reduction_01.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616124449000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_deer_alerted\\Deer_WarningBlow.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616077899000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_deer_idle\\Deer_Grunt_01.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616080996000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_boar_hit\\Boar_Hurt_03.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616637710000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_deer_idle\\SFX_Reduction_03.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616124449000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_deer_idle\\SFX_Reduction_04.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616124449000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_deer_idle\\SFX_Reduction_07.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616124449000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_deer_idle\\SFX_Reduction_06.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616124449000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_deer_idle\\SFX_Reduction_08.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616124449000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_deer_idle\\SFX_Reduction_05.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616124449000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_alerted\\Wolf_Growl_02.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616341201000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_alerted\\Wolf_Growl_01.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616341181000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_alerted\\Wolf_Growl_03.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616341226000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_attack\\Wolf_Attack_02.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616550661000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_death\\Wolf_Hit_01.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616381771000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_haul\\SFX_Reduction_01.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616124449000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_attack\\Wolf_Attack_01.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616550558000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_attack\\Wolf_Attack_04.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616550745000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_attack\\Wolf_Attack_03.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616550701000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_attack\\Wolf_Attack_05.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616550776000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_haul\\SFX_Reduction_03.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616124449000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_haul\\SFX_Reduction_04.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616124449000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_haul\\Wolf_Bark_01.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616341086000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_haul\\SFX_Reduction_02.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616124449000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_haul\\SFX_Reduction_05.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616124449000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_death\\Wolf_Hit_02.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616551182000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_haul\\SFX_Reduction_07.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616124449000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_haul\\Wolf_Bark_02.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616341114000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_haul\\SFX_Reduction_06.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616124449000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_haul\\Wolf_Bark_03.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616341150000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_haul\\Wolf_Howl_01.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616250332000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_haul\\Wolf_Howl_02.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616251310000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_haul\\Wolf_Howl_03.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616251901000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_hit\\Wolf_Hurt_04.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616551298000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_haul\\Wolf_Howl_04.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616251901000
+    },
+    {
+      "relPath": "CustomAudio\\SFX\\sfx_wolf_hit\\Wolf_Hit_03.wav",
+      "source": "Realistic Animal Sounds (RAS)-574-2-5-0-1616720997",
+      "target": "",
+      "time": 1616551114000
+    },
+    {
+      "relPath": "AutoFeed.dll",
+      "source": "Auto Feed-985-0-4-0-1619065766",
+      "target": "",
+      "time": 1692736334000
+    },
+    {
+      "relPath": "fitness.png",
+      "source": "FitnessSkillMod.zip-388-1-0-3-1615592150",
+      "target": "",
+      "time": 1615491456000
+    },
+    {
+      "relPath": "FitnessSkillMod.dll",
+      "source": "FitnessSkillMod.zip-388-1-0-3-1615592150",
+      "target": "",
+      "time": 1615592047000
+    },
+    {
+      "relPath": "gathering.png",
+      "source": "GatheringSkillMod.zip-342-2-0-2-1616032064.1",
+      "target": "",
+      "time": 1615494574000
+    },
+    {
+      "relPath": "GatheringSkillMod.dll",
+      "source": "GatheringSkillMod.zip-342-2-0-2-1616032064.1",
+      "target": "",
+      "time": 1616031978000
+    },
+    {
+      "relPath": "SkillInjector.dll",
+      "source": "SkillInjectorMod.zip-341-1-1-1-1616015745",
+      "target": "",
+      "time": 1616007172000
+    }
+  ]
+}
