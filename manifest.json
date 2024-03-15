@@ -1,9 +1,10 @@
 {
-    "name": "DeathTweaks",
-    "version_number": "1.3.0",
-    "website_url": "https://www.nexusmods.com/valheim/mods/1068",
-    "description": "v1.3.0 by aedenthorn from NexusMods.  Lets you tweak what happens when you die, including item dropping and keeping, whether a tombstone is created, whether food levels are kept, whether to reduce skill levels, etc.",
-    "author": "aedenthorn",
-    "dependencies": [
-    ]
+  "name": "HoeSkill",
+  "description": "Adds a skill that reduces hoe stamina cost",
+  "version_number": "0.0.2",
+  "website_url": "https://github.com/tpill90/ValheimMods/tree/master/HoeSkill",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1700",
+    "pipakin-SkillInjector-1.1.1"
+  ]
 }
