@@ -1,9 +1,9 @@
-{
-    "name": "BiggerPickupRadius",
-    "version_number": "1.1.3",
-    "website_url": "https://github.com/mtnewton/valheim-mods",
-    "description": "Increase your pickup radius (3x by default)",
-    "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.600"
-    ]
+﻿{
+  "name": "ChebsAmplifiedStations",
+  "description": "A workstation range-extender and daisy-chain mod.",
+  "version_number": "1.1.1",
+  "website_url": "https://github.com/jpw1991/chebs-amplified-stations",
+  "dependencies": [
+    "ValheimModding-Jotunn-2.15.0"
+  ]
 }
